@@ -1,0 +1,1 @@
+Se modifico el A.txt y se eliminaron a B y C, commit 13
